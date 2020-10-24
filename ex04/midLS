@@ -1,1 +1,1 @@
-ls -m -F
+ls -tUpm
